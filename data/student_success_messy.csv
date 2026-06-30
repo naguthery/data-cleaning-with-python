@@ -1,0 +1,316 @@
+StudentID,Gender,Age,ParentEducation,InternetAccess,StudyHoursPerWeek,Absences,PriorFailures,FinalGrade
+2001,male,20,Associate,,17,27,2,49
+2002,Female ,18,High School,No,10,28,0,39
+2003,male,20,Master,No,15,22,1,69
+2004,Female,18,Master,,17,23,1,69
+2005,FEMALE,20,Master,No,12,8,2,46
+2006,male,25,High School,N,4,29,3,27
+2007,FEMALE,18,Master,N,7,20,1,43
+2008,Female,21,,,24,19,3,67
+2009,Female,25,,Y,13,22,3,50
+2010,Male,18,Master,,,27,3,33
+2011,Female,23,Bachelor,,14,13,1,67
+2012,Female,22,High School,Yes,24,5,4,
+2013,Male,24,Associate,Yes,11,28,1,37
+2014,Male,18,Bachelor,Y,3,19,4,28
+2015,Female,25,,,11,14,4,28
+2016,FEMALE,26,High School,Yes,15,17,0,
+2017,Female ,26,Associate,,14,24,3,35
+2018,Male,19,,Y,18,19,3,54
+2019,Male,18,Master,Yes,6,22,2,31
+2020,Female ,19,Master,Yes,20,26,0,87
+2021,Female,25,Associate,No,,2,4,40
+2022,FEMALE,23,High School,N,17,20,4,56
+2023,male,21,Associate,,17,26,3,40
+2024,Female ,18,Associate,Y,8,7,1,67
+2025,male,22,Bachelor,,18,19,3,47
+2026,Female ,26,Master,,12,11,4,62
+2027,Male,22,Master,,15,21,3,46
+2028,Male,21,,Y,4,4,1,45
+2029,Female,23,Bachelor,N,4,0,3,40
+2030,FEMALE,19,Master,,16,8,4,72
+2031,Female ,26,Bachelor,Yes,7,16,2,53
+2032,Female ,18,High School,No,17,27,4,
+2033,Female ,19,Bachelor,N,15,2,3,58
+2034,Female,23,Master,N,17,28,2,56
+2035,FEMALE,26,Associate,,9,17,4,13
+2036,male,26,High School,Y,1,5,1,35
+2037,Female,22,High School,N,20,11,1,69
+2038,Female ,24,Master,No,14,21,4,34
+2039,Male,26,Bachelor,No,13,5,1,77
+2040,FEMALE,25,Associate,Y,8,3,2,46
+2041,male,20,Master,,2,21,0,51
+2042,Male,18,High School,No,10,20,4,22
+2043,FEMALE,18,High School,Yes,22,18,3,55
+2044,male,23,High School,No,7,25,4,40
+2045,male,21,High School,N,17,2,4,59
+2046,male,23,High School,,15,13,1,59
+2047,male,23,Bachelor,N,12,21,1,52
+2048,Female ,20,Associate,No,20,1,3,75
+2049,FEMALE,20,Bachelor,Y,7,10,2,57
+2050,FEMALE,25,Associate,N,12,8,2,66
+2051,Female ,21,Bachelor,N,1,5,4,39
+2052,Female ,19,Master,Y,22,8,1,85
+2053,FEMALE,21,High School,Yes,23,17,2,51
+2054,male,21,Master,No,8,19,0,63
+2055,Male,24,Associate,Y,2,16,1,50
+2056,Female ,20,Associate,Y,20,20,2,52
+2057,FEMALE,21,,,15,29,1,38
+2058,Female,19,High School,N,2,20,2,13
+2059,FEMALE,26,High School,No,12,10,1,58
+2060,male,18,Associate,Y,18,8,4,59
+2061,Female,20,,No,7,27,2,48
+2062,male,21,High School,N,10,18,2,48
+2063,Female ,25,High School,N,2,20,1,43
+2064,Male,20,Master,No,3,2,4,25
+2065,Female,25,Bachelor,Yes,14,1,4,57
+2066,Female ,25,,Yes,16,26,3,48
+2067,male,19,Associate,,23,23,3,45
+2068,Female,22,Bachelor,No,13,2,0,84
+2069,Female,25,Master,N,4,19,3,45
+2070,FEMALE,22,Associate,,,16,2,71
+2071,Female ,25,Associate,Y,19,20,1,82
+2072,Female,26,Master,N,,21,0,64
+2073,Male,18,High School,,21,23,3,33
+2074,Male,20,High School,No,7,10,3,46
+2075,FEMALE,25,Bachelor,Y,14,16,0,78
+2076,Female,22,,No,13,28,3,33
+2077,FEMALE,21,High School,No,16,11,3,59
+2078,FEMALE,25,,N,18,2,3,61
+2079,FEMALE,21,Associate,Yes,20,22,0,95
+2080,Female,25,Master,Y,13,13,2,70
+2081,Female,18,Bachelor,N,8,24,0,59
+2082,male,25,High School,Yes,4,23,0,
+2083,FEMALE,24,Bachelor,No,6,21,3,
+2084,FEMALE,26,,Y,24,6,2,81
+2085,FEMALE,24,Master,Yes,18,23,1,37
+2086,FEMALE,26,,N,24,7,4,51
+2087,Male,18,Bachelor,Y,17,18,1,59
+2088,Female,23,Associate,,20,1,3,39
+2089,FEMALE,21,Associate,Yes,13,6,1,70
+2090,Female,20,,,22,15,2,51
+2091,Female ,22,Master,N,2,0,2,47
+2092,FEMALE,21,,,8,21,3,
+2093,Female,21,High School,Yes,2,13,2,47
+2094,male,25,Master,N,15,2,3,43
+2095,FEMALE,19,Master,N,5,13,3,41
+2096,Female ,26,,,16,22,0,79
+2097,FEMALE,18,Master,Y,16,17,1,52
+2098,Female,19,Associate,Y,14,21,0,50
+2099,Male,22,Bachelor,Yes,10,26,3,56
+2100,Male,25,Associate,Yes,10,2,4,52
+2101,FEMALE,20,Master,Y,14,5,4,60
+2102,Male,22,Bachelor,Y,23,26,3,42
+2103,Female,26,High School,Y,14,12,4,38
+2104,Female,21,,Yes,24,22,1,63
+2105,Male,22,Master,No,3,10,0,44
+2106,FEMALE,24,,Yes,20,4,1,91
+2107,Female,20,Bachelor,Y,,26,2,33
+2108,FEMALE,25,,No,,28,0,62
+2109,Female ,25,Master,N,18,10,0,90
+2110,Female ,25,Master,Yes,6,1,1,62
+2111,Female,22,Associate,Yes,1,27,0,42
+2112,Female ,25,,Y,12,11,3,32
+2113,Female ,26,,No,7,24,1,49
+2114,FEMALE,22,Associate,,,23,4,4
+2115,Female ,18,Associate,,24,26,1,63
+2116,FEMALE,25,,No,20,23,4,50
+2117,Male,24,Bachelor,,23,0,1,100
+2118,Female ,21,Bachelor,N,17,17,3,47
+2119,Female ,22,High School,N,3,7,2,40
+2120,Female ,19,Associate,Yes,16,20,3,54
+2121,Female ,19,Bachelor,,15,21,3,45
+2122,Male,25,Master,Y,2,18,2,45
+2123,Male,20,Master,Yes,5,1,4,28
+2124,Female,25,Associate,No,21,16,3,74
+2125,Male,26,Master,N,3,7,2,51
+2126,Male,22,High School,Y,,18,2,55
+2127,Female ,22,Master,Y,16,22,1,62
+2128,male,22,High School,No,12,3,0,84
+2129,male,25,,Yes,21,9,1,83
+2130,Male,25,Master,Yes,13,10,0,56
+2131,Female,22,Master,Yes,22,13,3,69
+2132,Male,19,Bachelor,No,19,13,1,58
+2133,male,23,,No,,25,3,37
+2134,Female ,23,Associate,,12,10,2,66
+2135,Female ,26,Associate,Yes,16,24,1,69
+2136,Female,23,High School,Yes,18,10,4,41
+2137,male,19,Master,Yes,23,3,2,76
+2138,FEMALE,18,Master,N,,25,4,29
+2139,Female,24,Master,N,3,24,4,4
+2140,Female ,18,Bachelor,Yes,9,22,0,52
+2141,FEMALE,22,Associate,Yes,21,9,4,51
+2142,Female,24,Master,Yes,17,13,1,83
+2143,Female,22,,Y,2,17,3,8
+2144,Male,23,Associate,Y,,16,4,31
+2145,Female,21,,Yes,,5,0,65
+2146,FEMALE,22,,No,21,4,4,57
+2147,Female,24,High School,Yes,5,18,3,42
+2148,Male,20,High School,,2,5,1,53
+2149,Female,23,Bachelor,Y,18,10,4,46
+2150,male,20,Bachelor,N,5,11,2,49
+2151,male,22,Bachelor,N,10,2,3,42
+2152,male,21,High School,No,,14,4,23
+2153,Female,20,Master,Yes,13,23,3,38
+2154,FEMALE,22,Associate,Yes,2,3,3,43
+2155,male,26,Associate,,23,21,3,55
+2156,FEMALE,18,High School,N,8,12,3,29
+2157,Female,24,Bachelor,Y,3,13,0,43
+2158,Female,26,Bachelor,Y,21,13,0,85
+2159,FEMALE,26,Associate,Y,10,5,0,61
+2160,FEMALE,23,Master,,3,10,3,40
+2161,male,24,Master,,15,29,1,61
+2162,Female ,23,Master,Yes,10,22,2,32
+2163,Male,24,,,15,2,0,68
+2164,FEMALE,18,High School,Y,9,8,3,
+2165,male,22,Associate,Yes,21,14,0,89
+2166,FEMALE,18,,,16,6,2,75
+2167,male,26,Bachelor,No,24,3,0,93
+2168,male,18,High School,Y,20,11,3,61
+2169,FEMALE,23,High School,No,13,24,0,68
+2170,Female,24,Master,N,1,14,1,35
+2171,FEMALE,24,Bachelor,No,,29,3,14
+2172,Female,26,,Y,7,26,1,52
+2173,FEMALE,26,Associate,,24,17,4,47
+2174,FEMALE,22,High School,Y,18,7,4,44
+2175,FEMALE,22,,Yes,4,26,4,15
+2176,FEMALE,18,Master,Yes,21,14,2,63
+2177,Male,19,Bachelor,N,7,5,0,60
+2178,Male,18,High School,N,17,16,0,81
+2179,Female ,25,,Y,19,26,3,35
+2180,Female ,23,High School,No,14,18,1,60
+2181,Male,22,High School,No,23,0,1,100
+2182,Male,25,High School,No,20,20,3,67
+2183,Female ,20,Associate,No,8,20,4,37
+2184,Female,21,Master,,10,23,1,64
+2185,male,23,,N,7,22,0,63
+2186,Female,23,Bachelor,No,1,7,2,41
+2187,Female ,22,,Yes,9,13,1,66
+2188,Female,20,Master,Yes,2,6,0,38
+2189,FEMALE,24,,Y,4,23,4,21
+2190,Female ,25,Master,Y,,29,2,39
+2191,male,22,High School,N,5,8,4,37
+2192,male,24,,Yes,22,27,0,
+2193,Female ,23,Associate,No,2,10,4,26
+2194,FEMALE,25,Associate,,16,2,3,73
+2195,Male,21,High School,Y,14,14,0,64
+2196,FEMALE,19,Bachelor,,9,20,4,36
+2197,FEMALE,21,High School,Y,6,19,3,46
+2198,male,21,Master,,13,27,3,43
+2199,Female,26,,,16,4,4,
+2200,Female,21,Associate,Y,23,4,4,81
+2201,Female,23,Master,Y,,15,3,46
+2202,male,24,High School,N,,26,0,55
+2203,male,25,Associate,No,23,22,0,67
+2204,male,24,Master,No,9,29,4,28
+2205,Male,23,High School,,2,5,2,41
+2206,Male,25,High School,N,24,29,1,70
+2207,Female,19,Bachelor,Y,5,6,4,29
+2208,FEMALE,19,Associate,Y,12,14,3,56
+2209,FEMALE,24,Master,,10,29,2,57
+2210,FEMALE,24,Bachelor,N,10,21,2,58
+2211,Female,22,,,19,17,1,69
+2212,FEMALE,18,Bachelor,No,11,8,1,71
+2213,Female,21,High School,Y,12,13,2,51
+2214,male,26,,N,17,14,0,85
+2215,Female ,23,High School,Y,1,2,3,28
+2216,Female,21,Master,,4,21,4,27
+2217,Male,21,Bachelor,N,5,18,2,43
+2218,Female,26,Master,No,14,6,1,71
+2219,Female ,25,Bachelor,N,14,10,1,85
+2220,male,18,Master,,21,1,1,74
+2221,Male,19,High School,Y,3,0,2,47
+2222,Female,25,,,18,5,1,76
+2223,male,20,,N,3,29,0,33
+2224,Female ,21,,N,11,2,0,73
+2225,Female ,23,High School,,7,13,3,
+2226,Female ,23,Master,No,,18,3,24
+2227,FEMALE,18,High School,No,16,4,0,87
+2228,FEMALE,20,Master,Yes,5,20,2,
+2229,Female,23,Master,Yes,21,10,3,53
+2230,Female ,26,High School,Y,13,23,3,34
+2231,Male,25,Master,Y,16,22,2,58
+2232,Female ,25,,Y,14,23,3,34
+2233,Male,22,Master,Y,7,26,4,40
+2234,Male,23,Master,Yes,10,3,4,49
+2235,Male,19,Associate,No,8,4,0,61
+2236,Female,26,,Y,17,11,4,33
+2237,Male,24,,Yes,24,14,4,54
+2238,Female ,26,Bachelor,No,,0,2,58
+2239,FEMALE,22,Associate,No,23,25,3,53
+2240,male,20,,No,19,6,0,
+2241,Female ,25,Associate,Yes,2,23,1,36
+2242,Male,19,,Yes,3,19,1,42
+2243,Female,24,Bachelor,,23,8,2,67
+2244,male,20,High School,,18,27,0,88
+2245,male,24,Associate,Yes,15,24,4,44
+2246,male,23,Associate,Y,15,19,4,32
+2247,male,24,Bachelor,No,9,25,1,
+2248,FEMALE,18,Master,,13,16,4,44
+2249,male,21,High School,,17,26,0,75
+2250,Female,20,Associate,No,13,3,4,51
+2251,Male,20,High School,,18,2,1,78
+2252,Female ,25,Master,N,12,15,4,38
+2253,Female,23,Master,N,22,8,0,86
+2254,Female,23,Bachelor,,5,28,0,
+2255,male,18,Master,Y,13,16,4,39
+2256,Male,18,,N,11,21,3,38
+2257,FEMALE,21,Master,Y,16,6,2,73
+2258,Female,25,Master,Yes,13,15,0,79
+2259,FEMALE,19,Associate,No,23,12,0,91
+2260,FEMALE,26,Bachelor,,4,17,1,61
+2261,FEMALE,20,,N,24,7,3,
+2262,Female,23,High School,Y,19,1,1,96
+2263,Female,18,Bachelor,,1,10,1,53
+2264,Female,19,,Yes,14,13,1,65
+2265,FEMALE,18,,Yes,,19,3,43
+2266,Female,25,Associate,N,5,15,1,41
+2267,Female,25,Associate,,17,10,4,66
+2268,male,23,,,7,18,0,55
+2269,Female,26,High School,,9,8,2,
+2270,Male,19,High School,Yes,16,28,2,52
+2271,Male,23,High School,Yes,24,8,3,62
+2272,Female ,24,Master,No,14,26,3,35
+2273,male,25,Bachelor,Yes,1,1,2,
+2274,FEMALE,18,Master,Yes,2,7,4,26
+2275,Male,24,,No,6,23,0,67
+2276,Female ,22,High School,,22,24,4,60
+2277,male,19,High School,Yes,3,6,2,46
+2278,male,22,,No,2,24,2,21
+2279,Female,20,Bachelor,,11,3,0,81
+2280,Male,20,,Y,21,20,0,66
+2281,Male,19,,No,7,22,3,53
+2282,male,18,High School,No,10,3,3,64
+2283,Female ,19,High School,,24,27,4,30
+2284,Female,19,Bachelor,N,15,15,2,65
+2285,Female,24,Associate,Y,2,24,4,14
+2286,FEMALE,24,High School,Yes,23,3,3,63
+2287,male,21,Associate,N,4,8,1,59
+2288,Female ,24,High School,,7,2,0,51
+2289,male,25,Bachelor,,1,27,2,
+2290,Female,25,Master,,8,22,2,33
+2291,Male,24,High School,N,23,9,1,71
+2292,FEMALE,19,,,7,3,2,49
+2293,Female,21,Bachelor,Y,17,8,2,77
+2294,FEMALE,25,Associate,N,20,29,1,56
+2295,Male,20,High School,Y,6,0,3,59
+2296,Male,21,Master,Y,3,0,0,49
+2297,Female,26,Master,,17,8,3,48
+2298,Female ,18,Master,Y,11,26,1,56
+2299,FEMALE,21,High School,N,20,2,4,56
+2300,male,21,Master,,9,10,0,53
+2190,Female ,25,Master,Y,7,29,2,
+2124,Female,25,Associate,No,21,16,3,74
+2186,Female,23,Bachelor,No,1,7,2,41
+2214,male,26,,N,17,14,0,85
+2107,Female,20,Bachelor,Y,15,26,2,33
+2128,male,22,High School,No,12,3,0,84
+2177,Male,19,Bachelor,N,7,5,0,60
+2074,Male,20,High School,No,7,10,3,46
+2276,Female ,22,High School,,22,24,4,60
+2243,Female,24,Bachelor,,23,8,2,67
+2267,Female,25,Associate,,17,10,4,66
+2148,Male,20,High School,,2,5,1,53
+2300,male,21,Master,,9,10,0,53
+2059,FEMALE,26,High School,No,12,10,1,
+2123,Male,20,Master,Yes,5,1,4,28
